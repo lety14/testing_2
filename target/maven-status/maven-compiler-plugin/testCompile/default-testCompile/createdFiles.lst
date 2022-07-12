@@ -1,0 +1,10 @@
+com\backend\APIRest.class
+com\Pages\PageRegistration.class
+com\Pages\PageTransferFounds.class
+com\Base\BaseTest.class
+com\Pages\PageAccountOverview.class
+com\Base\BasePage.class
+com\Pages\PageOpenNewAccount.class
+com\Pages\PageAccountActivity.class
+com\Test\Test.class
+com\extentReports\ExtentFactory.class
